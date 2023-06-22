@@ -1,8 +1,8 @@
 # 🏠 내일의 집 : 오늘의집 데이터 분석 프로젝트
-![main](main_img.png)
+![main](readme/main_img.png)
 
 - 프로젝트 기간 : 2022.10 ~ 2022.11
-- 발표자료 : [발표 자료 바로가기](nae_house_pt.pdf)
+- 발표자료 : [발표 자료 바로가기](readme/nae_house_pt.pdf)
 - 2022 데잇걸즈 데모데이 한국정보화진흥원 원장상 수상 🏆
 
 
@@ -19,7 +19,7 @@
 
 ---
 ### 데이터 수집
-![schema](schem_img.png)
+![schema](readme/schem_img.png)
 
 - **집들이 데이터 (이용자 정보)** : 오늘의 집 '집들이' 이용자가 직접ㅈ 올린 게시물에서 본인 집의 인테리어, 가족 형태, 주거 형태 그리고 구매 상품 등 정보를 수집하였습니다.
   - 수집 시점 : 22년 10월  
@@ -62,7 +62,7 @@
 | 최수연    | tndus8945@gmail.com|
 
 
-![members](members_img.png)
+![members](readme/members_img.png)
 
 
 
